@@ -1,0 +1,4 @@
+*.dSYM
+*.plist
+*.vscode
+*.DS_Store
